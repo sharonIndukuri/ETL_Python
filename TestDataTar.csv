@@ -1,0 +1,26 @@
+VIN (1-10),County,City,State,Postal Code,Model Year,Make,Model,Electric Vehicle Type,Clean Alternative Fuel Vehicle (CAFV) Eligibility
+1,Yakima,Yakima,WA,98908,2016,FIAT,500,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible
+2,King,Auburn,WA,98092,2020,,TAYCAN,Battery Electric Vehicle (BEV),
+3,King,Seattle,WA,98109,2018,,MODEL 3,Battery Electric Vehicle (BEV),
+4,King,Seattle,WA,98125,2020,,MODEL Y,Battery Electric Vehicle (BEV),
+5,Thurston,Olympia,WA,98501,2018,,MODEL X,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible
+6,Thurston,Olympia,WA,98506,2020,CHEVROLET,BOLT EV,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible
+7,Yakima,Moxee,WA,98936,2022,TESLA,MODEL 3,Battery Electric Vehicle (BEV),Eligibility unknown as battery range has not been researched
+8,Kitsap,Bainbridge Island,WA,98110,2018,TESLA,MODEL S,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible
+9,Thurston,Olympia,WA,98512,2011,NISSAN,LEAF,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible
+10,King,Seattle,WA,98103,2018,KIA,NIRO,Plug-in Hybrid Electric Vehicle (PHEV),Not eligible due to low battery range
+11,Thurston,Tumwater,WA,98512,2025,NISSAN,LEAF,Battery Electric Vehicle (BEV),Eligibility unknown as battery range has not been researched
+12,Kitsap,Poulsbo,WA,98370,2020,TESLA,MODEL Y,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible
+13,Kitsap,Bainbridge Island,WA,98110,2024,AUDI,Q5 E,Plug-in Hybrid Electric Vehicle (PHEV),Not eligible due to low battery range
+14,Thurston,Olympia,WA,98502,2024,TESLA,MODEL Y,Battery Electric Vehicle (BEV),Eligibility unknown as battery range has not been researched
+15,Kitsap,Bainbridge Island,WA,98110,2018,BMW,X5,Plug-in Hybrid Electric Vehicle (PHEV),Not eligible due to low battery range
+16,Thurston,Olympia,WA,98513,2019,KIA,NIRO,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible
+17,Kitsap,Kingston,WA,98346,2015,FORD,C-MAX,Plug-in Hybrid Electric Vehicle (PHEV),Not eligible due to low battery range
+18,King,Seattle,WA,98178,2018,TESLA,MODEL 3,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible
+19,Thurston,Lacey,WA,98503,2014,CHEVROLET,VOLT,Plug-in Hybrid Electric Vehicle (PHEV),Clean Alternative Fuel Vehicle Eligible
+20,King,Kirkland,WA,98034,2020,TESLA,MODEL 3,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible
+21,Snohomish,Monroe,WA,98272,2022,VOLVO,XC90,Plug-in Hybrid Electric Vehicle (PHEV),Not eligible due to low battery range
+22,Snohomish,Everett,WA,98208,2018,TESLA,MODEL 3,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible
+23,King,Seattle,WA,98122,2020,KIA,NIRO,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible
+24,Kitsap,Bremerton,WA,98312,2017,HYUNDAI,SONATA,Plug-in Hybrid Electric Vehicle (PHEV),Not eligible due to low battery range
+25,Thurston,Yelm,WA,98597,2015,BMW,I8,Plug-in Hybrid Electric Vehicle (PHEV),Not eligible due to low battery range
