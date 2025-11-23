@@ -3,7 +3,7 @@ import pandas as pd
 a = pd.read_csv("TestData.csv")
 b = pd.read_csv("TestDataTar.csv")
 
-'''
+
 #No of rows
 print(pd.options.display.max_rows) 
 
@@ -44,7 +44,7 @@ print(show)
 
 print(a.isnull().sum())
 
-'''
+
 print(a.count())
 print(b.count())
 
@@ -67,6 +67,6 @@ print(pf)
 print()
 print(pd.DataFrame(data).loc[0])
 print()
-print(pd.DataFrame(data).loc[[0,2]])'''
+print(pd.DataFrame(data).loc[[0,2]])
 
-
+'''
