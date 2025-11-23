@@ -1,6 +1,6 @@
 
 # Online Python - IDE, Editor, Compiler, Interpreter
-'''
+
 a = "My name is Sharon"
 b = 123
 print(a.upper())
@@ -30,7 +30,7 @@ else:
 
 for num in range((16, 9, -1)):
     print(num)
-'''
+
 print("Enter a no")
 num = input()
 if float(num) < 1:
